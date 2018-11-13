@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistema_Goniotech", "Sistema_Goniotech\Sistema_Goniotech.csproj", "{C7CC5EF9-4E44-4780-938B-7B0B91703970}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7CC5EF9-4E44-4780-938B-7B0B91703970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7CC5EF9-4E44-4780-938B-7B0B91703970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7CC5EF9-4E44-4780-938B-7B0B91703970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7CC5EF9-4E44-4780-938B-7B0B91703970}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {367025C7-971B-4DA7-B963-F7B8AB432600}
+	EndGlobalSection
+EndGlobal
