@@ -38,7 +38,7 @@
             this.btn_cadastrar_paciente.BackgroundImage = global::Sistema_Goniotech.Properties.Resources.business_application_addmale_useradd_insert_add_user_client_2312;
             this.btn_cadastrar_paciente.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btn_cadastrar_paciente.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btn_cadastrar_paciente.Location = new System.Drawing.Point(43, 54);
+            this.btn_cadastrar_paciente.Location = new System.Drawing.Point(43, 42);
             this.btn_cadastrar_paciente.Name = "btn_cadastrar_paciente";
             this.btn_cadastrar_paciente.Size = new System.Drawing.Size(100, 100);
             this.btn_cadastrar_paciente.TabIndex = 0;
