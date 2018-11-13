@@ -1,6 +1,6 @@
 ﻿namespace Sistema_Goniotech
 {
-    partial class Cadastrar_Paciente
+    partial class Cadastrar_Fisio
     {
         /// <summary>
         /// Required designer variable.
@@ -30,15 +30,15 @@
         {
             this.SuspendLayout();
             // 
-            // Cadastrar_Paciente
+            // Cadastrar_Fisio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Name = "Cadastrar_Paciente";
+            this.Name = "Cadastrar_Fisio";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Cadastrar_Paciente";
+            this.Text = "Cadastrar_Fisio";
             this.ResumeLayout(false);
 
         }

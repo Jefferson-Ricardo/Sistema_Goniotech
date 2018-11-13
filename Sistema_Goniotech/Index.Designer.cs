@@ -46,6 +46,7 @@
             this.btn_cadastrar_paciente.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btn_cadastrar_paciente.UseCompatibleTextRendering = true;
             this.btn_cadastrar_paciente.UseVisualStyleBackColor = true;
+            this.btn_cadastrar_paciente.Click += new System.EventHandler(this.btn_cadastrar_paciente_Click);
             // 
             // btn_cadastrar_fisio
             // 
@@ -59,6 +60,7 @@
             this.btn_cadastrar_fisio.Text = "Cadastrar Fisioterapeuta";
             this.btn_cadastrar_fisio.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btn_cadastrar_fisio.UseVisualStyleBackColor = true;
+            this.btn_cadastrar_fisio.Click += new System.EventHandler(this.btn_cadastrar_fisio_Click);
             // 
             // btn_localizar
             // 
@@ -72,6 +74,7 @@
             this.btn_localizar.Text = "Localizar";
             this.btn_localizar.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btn_localizar.UseVisualStyleBackColor = true;
+            this.btn_localizar.Click += new System.EventHandler(this.btn_localizar_Click);
             // 
             // Index
             // 
@@ -85,6 +88,7 @@
             this.Controls.Add(this.btn_cadastrar_fisio);
             this.Controls.Add(this.btn_cadastrar_paciente);
             this.DoubleBuffered = true;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Index";
             this.ShowIcon = false;
             this.Text = "GonioTech";

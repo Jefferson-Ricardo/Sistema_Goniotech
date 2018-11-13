@@ -13,14 +13,14 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Sensor
+namespace Sistema_Goniotech
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Sensor.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Sensor : UserControl
     {
-        public MainWindow()
+        public Sensor()
         {
             InitializeComponent();
         }

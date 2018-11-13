@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="Sistema_Goniotech.Sensor"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Sistema_Goniotech"
+             mc:Ignorable="d" 
+             d:DesignHeight="424.258" d:DesignWidth="789.513">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="467*"/>
+            <ColumnDefinition Width="323*"/>
+        </Grid.ColumnDefinitions>
+        <WindowsFormsHost HorizontalAlignment="Left" Height="425" Margin="0,0,0,-1" VerticalAlignment="Top" Width="790" Grid.ColumnSpan="2"/>
+        <Image HorizontalAlignment="Left" Height="357" Margin="10,10,0,0" VerticalAlignment="Top" Width="772" Grid.ColumnSpan="2"/>
+        <Button Content="Voltar" HorizontalAlignment="Left" Margin="10,372,0,0" VerticalAlignment="Top" Width="380" Height="40"/>
+        <Button Content="Capturar" HorizontalAlignment="Left" Margin="402,372,0,0" VerticalAlignment="Top" Width="380" Height="40" Grid.ColumnSpan="2"/>
+        
+    </Grid>
+    
+    
+    
+</UserControl>
